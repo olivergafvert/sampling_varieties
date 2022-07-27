@@ -1,0 +1,10 @@
+name = "sampling_varieties"
+uuid = "2af8e59e-9e6b-4416-bf3a-5be0780f4662"
+authors = ["Sandra Di Rocco <dirocco@kth.se>", "David Eklund <david.eklund@ri.se>", "Oliver Gäfvert <oliver.gafvert@maths.ox.ac.uk>"]
+version = "0.1.0"
+
+[deps]
+DynamicPolynomials = "7c1d4256-1411-5781-91ec-d7bc3513ac07"
+HomotopyContinuation = "f213a82b-91d6-5c5d-acf7-10f1c761b327"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
