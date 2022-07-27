@@ -1,4 +1,4 @@
-using HomotopyContinuation, DynamicPolynomials, LinearAlgebra, IterTools, Ripserer, Plots
+using HomotopyContinuation, DynamicPolynomials, LinearAlgebra, IterTools
 
 function compute_bottlenecks(F)
     # Returns an array of all real non-singular 2-bottlenecks of the variety F
